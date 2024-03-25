@@ -1,0 +1,63 @@
+Note :- all the jobs only require 0 to 2 years Exp 
+
+Company Name : BlackRock
+Job Link : https://careers.blackrock.com/job/19693196/analyst-full-stack-web-developer-gurgaon-in/
+Job Id : R240030
+
+Company Name: Bank Of America
+Job Link : https://careers.bankofamerica.com/en-us/job-detail/23014113/analyst-gbs-r-india
+Job Id : JR-23014113
+
+Company Name : scrut Automation 
+Job Link :https://scrut.freshteam.com/jobs/M2DiEPMi-fJ9/product-support-engineer
+Job Link : https://scrut.freshteam.com/jobs/4Ga4VcPVkf1H/software-development-engineer-1-backend-developer
+Job Link : https://scrut.freshteam.com/jobs/gvkJXL58WrdD/software-development-engineer-1-fullstack
+
+company Name : Navi
+Job Link : https://navi.freshteam.com/jobs/q4Vx6QzXdzDz/software-solutions-engineer-1
+
+Company Name : HSBC
+Job link : https://mycareer.hsbc.com/en_GB/external/PipelineDetail/Analyst-Data-Governance-GSC-S/216031?src=JB-257546
+Job Id : 0000JS9I
+
+Company Name : Copeland
+Job Link : https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/24000631/?utm_medium=jobshare
+Job Id : 24000631
+
+Company Name : LabCorp
+Job Link : https://careers.labcorp.com/global/en/job/COVAGLOBAL2361951EXTERNALENGLOBAL/UI-Software-Engineer
+Job Id : 2361951
+
+Company name : Qualcomm 
+Job Link : https://careers.qualcomm.com/careers/job/446696658715?domain=qualcomm.com
+Job Id: 3057508
+
+
+Company Name : Kyndryk
+Job Link : https://kyndryl.wd5.myworkdayjobs.com/en-US/KyndrylProfessionalCareers/job/Bangalore-Karnataka-India/Dot-net-backend-developer_R-9354-1
+Job Id : R-9354
+
+Company Name : Microsoft
+Job Link :https://jobs.careers.microsoft.com/global/en/share/1670244/?utm_source=Job Share&utm_campaign=Copy-job-share
+Job Id : 1670244
+
+
+company name : sandvine
+Job Link :https://recruiting2.ultipro.com/PRO1053PROC/JobBoard/d6eed263-4950-420d-b9f8-5b1a441c931e/OpportunityDetail?opportunityId=1c03d458-1333-4877-892f-a681d30d3e4a&postingId=7408a0a8-8d3f-4a64-b80f-d7d9187f3939
+Job Id : SOFTW002828
+
+Company name : cadence
+Job link : https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/NOIDA/Intern-Software-Engineering_R45099
+Job Id : R45099
+
+Company name : Phillips
+Job Link : https://www.careers.philips.com/global/en/job/509065/Data-Scientist-AI-ML
+Job Id : 509065 
+
+Company Name : Jp Morgan 
+Job Link : https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210480820/?utm_medium=jobshare
+Job Id : 210480820
+
+Company name : booking Holdings 
+Job Link : https://jobs.bookingholdings-coe.com/careers/job/562949959698832?microsite=microsite_1&domain=booking.com
+Job Id : 30355
